@@ -45,23 +45,7 @@ Example of generated economic calendar iframe HTML code using the tool available
 
 ### Result
 
-<iframe 
-    src="https://sslecal2.investing.com?
-    columns=exc_flags,exc_currency,exc_importance,exc_actual,exc_forecast,exc_previous&
-    features=datepicker,timezone&
-    countries=110,17,29,25,32,6,37,36,26,5,22,39,14,48,10,35,7,43,38,4,12,72&
-    calType=day&
-    timeZone=12&
-    lang=12" 
-    width="650" 
-    height="467" 
-    frameborder="0" 
-    allowtransparency="true" 
-    marginwidth="0" 
-    marginheight="0">
-</iframe>
-
-<div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 11px;color: #333333;text-decoration: none;">Calendário Econômico fornecido por <a href="https://br.investing.com/" rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com Brasil</a>, o portal líder financeiro.</span></div>
+![standard economic calendar](assets/standard_economic_calendar.png)
 
 ## Query params
 
@@ -145,17 +129,6 @@ In this example the ideia was to see the economic events of the DAY of the selec
 
 ### Result
 
-<iframe 
-    src="https://sslecal2.investing.com?
-    columns=&
-    features=datepicker,timezone&
-    countries=5&
-    calType=day&
-    timeZone=12&
-    lang=12" 
-    width="460" 
-    height="150" 
-    frameborder="0">
-</iframe>
+![small economic calendar](assets/small_economic_calendar.png)
 
 
