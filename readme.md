@@ -1,7 +1,7 @@
 
 # Investing.com
 
-Unofficial documentation of the url and params to form an embeded economic calendar.
+My documentation of the url and params to form an embeded economic calendar from investing.com.
 
 ## Economic Calendar
 https://br.investing.com/economic-calendar/
